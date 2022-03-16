@@ -1,0 +1,46 @@
+body {
+    color: #F20852;
+    background-color:bisque;
+}
+
+h1 {
+    text-decoration: none;
+	font-family: Arial;
+	font-size: 40px;
+	font-style: italic;
+	text-align: center;
+	color: #F20852;
+}
+
+h2 {
+    text-decoration: none;
+	font-family: Arial;
+	font-size: 40px;
+	font-style: italic;
+	text-align: left;
+	color: #19685b;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    color:darkgreen;
+}
+
+a {
+    text-decoration:line-through;
+	font-family: Arial;
+	font-size: 40px;
+	font-style: italic;
+	text-align: left;
+	color: #194368;
+}
+
+p {
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: chocolate;
+    text-align: justify;
+    font-weight:bolder;
+}
